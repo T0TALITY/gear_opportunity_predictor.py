@@ -1,0 +1,20 @@
+{
+  "name": "Daily PRV",
+  "mode": "Daily PRV",
+  "variables": {
+    "aggression": 58,
+    "longevity": 72,
+    "thermal_priority": 78,
+    "torque_smoothness": 82,
+    "fuel_margin_safety": 84,
+    "maintenance_commitment": 62,
+    "ride_compliance": 68,
+    "body_control": 66,
+    "grip_preservation": 76,
+    "pitch_control": 64,
+    "roll_control": 66,
+    "load_compensation": 62,
+    "height_bias": 0,
+    "traction_cooperation": 80
+  }
+}
