@@ -1,0 +1,20 @@
+{
+  "name": "Sport Smart",
+  "mode": "Sport Smart",
+  "variables": {
+    "aggression": 68,
+    "longevity": 58,
+    "thermal_priority": 72,
+    "torque_smoothness": 74,
+    "fuel_margin_safety": 78,
+    "maintenance_commitment": 70,
+    "ride_compliance": 52,
+    "body_control": 78,
+    "grip_preservation": 72,
+    "pitch_control": 76,
+    "roll_control": 78,
+    "load_compensation": 66,
+    "height_bias": -1,
+    "traction_cooperation": 70
+  }
+}
