@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ControlProfile",
+  "type": "object",
+  "required": ["name", "mode", "variables"],
+  "properties": {
+    "name": { "type": "string" },
+    "mode": { "type": "string" },
+    "variables": {
+      "type": "object",
+      "required": [
+        "aggression",
+        "longevity",
+        "thermal_priority",
+        "torque_smoothness",
+        "fuel_margin_safety",
+        "maintenance_commitment"
+      ],
+      "properties": {
+        "aggression": { "type": "number" },
+        "longevity": { "type": "number" },
+        "thermal_priority": { "type": "number" },
+        "torque_smoothness": { "type": "number" },
+        "fuel_margin_safety": { "type": "number" },
+        "maintenance_commitment": { "type": "number" },
+        "ride_compliance": { "type": "number" },
+        "body_control": { "type": "number" },
+        "grip_preservation": { "type": "number" },
+        "pitch_control": { "type": "number" },
+        "roll_control": { "type": "number" },
+        "load_compensation": { "type": "number" },
+        "height_bias": { "type": "number" },
+        "traction_cooperation": { "type": "number" }
+      }
+    }
+  }
+}
