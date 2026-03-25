@@ -1,0 +1,20 @@
+{
+  "name": "Longevity Max",
+  "mode": "Longevity Max",
+  "variables": {
+    "aggression": 42,
+    "longevity": 92,
+    "thermal_priority": 90,
+    "torque_smoothness": 88,
+    "fuel_margin_safety": 90,
+    "maintenance_commitment": 68,
+    "ride_compliance": 74,
+    "body_control": 60,
+    "grip_preservation": 82,
+    "pitch_control": 62,
+    "roll_control": 60,
+    "load_compensation": 70,
+    "height_bias": 0,
+    "traction_cooperation": 86
+  }
+}
