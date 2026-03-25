@@ -1,0 +1,8 @@
+{
+  "theme": "Classic Holden",
+  "default_screen": "speedometer",
+  "sequence_engine": "bennonacci_ambient",
+  "brightness_limit": 0.42,
+  "uv_accent": false,
+  "night_bias": 0.35
+}
