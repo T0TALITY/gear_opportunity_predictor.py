@@ -1,0 +1,20 @@
+{
+  "name": "P-Mode",
+  "mode": "P-Mode",
+  "variables": {
+    "aggression": 34,
+    "longevity": 86,
+    "thermal_priority": 92,
+    "torque_smoothness": 88,
+    "fuel_margin_safety": 90,
+    "maintenance_commitment": 58,
+    "ride_compliance": 76,
+    "body_control": 58,
+    "grip_preservation": 84,
+    "pitch_control": 60,
+    "roll_control": 58,
+    "load_compensation": 66,
+    "height_bias": 0,
+    "traction_cooperation": 90
+  }
+}
