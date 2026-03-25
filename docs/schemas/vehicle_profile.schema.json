@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VehicleProfile",
+  "type": "object",
+  "required": ["family", "variant", "generation", "control_depth"],
+  "properties": {
+    "family": { "type": "string" },
+    "variant": { "type": "string" },
+    "generation": { "type": "string" },
+    "control_depth": {
+      "type": "string",
+      "enum": ["advisory_only", "supervisory_only", "limited_live", "extended_supported"]
+    },
+    "engine_type": { "type": "string" },
+    "induction_type": { "type": "string" },
+    "drivetrain": { "type": "string" },
+    "gearbox_type": { "type": "string" },
+    "cluster_capability": { "type": "string" },
+    "supported_packs": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
