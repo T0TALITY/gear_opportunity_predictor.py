@@ -1,0 +1,20 @@
+{
+  "name": "Stock Safe",
+  "mode": "Stock Safe",
+  "variables": {
+    "aggression": 35,
+    "longevity": 80,
+    "thermal_priority": 85,
+    "torque_smoothness": 80,
+    "fuel_margin_safety": 90,
+    "maintenance_commitment": 50,
+    "ride_compliance": 80,
+    "body_control": 50,
+    "grip_preservation": 78,
+    "pitch_control": 55,
+    "roll_control": 55,
+    "load_compensation": 60,
+    "height_bias": 0,
+    "traction_cooperation": 88
+  }
+}
