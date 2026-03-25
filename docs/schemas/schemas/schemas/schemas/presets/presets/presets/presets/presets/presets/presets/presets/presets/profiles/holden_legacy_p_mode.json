@@ -1,0 +1,20 @@
+{
+  "family": "holden",
+  "variant": "legacy",
+  "generation": "legacy",
+  "control_depth": "supervisory_only",
+  "engine_type": "mixed_legacy_support",
+  "induction_type": "varies",
+  "drivetrain": "varies",
+  "gearbox_type": "varies",
+  "cluster_capability": "basic_or_limited_colour",
+  "supported_packs": ["stock_base", "cooling_fuel", "legacy_response_lite"],
+  "default_mode": "P-Mode",
+  "visual_theme": "Classic Holden",
+  "notes": [
+    "Speedometer-first dash",
+    "Thermal reserve priority",
+    "Fueling headroom priority",
+    "Advisory or limited supervisory logic only"
+  ]
+}
