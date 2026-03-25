@@ -1,0 +1,20 @@
+{
+  "name": "Wet / Low-Grip",
+  "mode": "Wet / Low-Grip",
+  "variables": {
+    "aggression": 38,
+    "longevity": 74,
+    "thermal_priority": 76,
+    "torque_smoothness": 90,
+    "fuel_margin_safety": 86,
+    "maintenance_commitment": 55,
+    "ride_compliance": 74,
+    "body_control": 58,
+    "grip_preservation": 90,
+    "pitch_control": 60,
+    "roll_control": 56,
+    "load_compensation": 62,
+    "height_bias": 0,
+    "traction_cooperation": 95
+  }
+}
