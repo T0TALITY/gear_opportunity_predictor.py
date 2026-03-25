@@ -1,0 +1,20 @@
+{
+  "name": "Tow / Load",
+  "mode": "Tow / Load",
+  "variables": {
+    "aggression": 44,
+    "longevity": 82,
+    "thermal_priority": 88,
+    "torque_smoothness": 84,
+    "fuel_margin_safety": 88,
+    "maintenance_commitment": 72,
+    "ride_compliance": 62,
+    "body_control": 72,
+    "grip_preservation": 80,
+    "pitch_control": 72,
+    "roll_control": 68,
+    "load_compensation": 90,
+    "height_bias": 1,
+    "traction_cooperation": 84
+  }
+}
