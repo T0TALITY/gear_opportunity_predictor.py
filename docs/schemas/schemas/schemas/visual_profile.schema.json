@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VisualProfile",
+  "type": "object",
+  "required": ["theme", "default_screen", "sequence_engine"],
+  "properties": {
+    "theme": { "type": "string" },
+    "default_screen": { "type": "string" },
+    "sequence_engine": { "type": "string" },
+    "brightness_limit": { "type": "number" },
+    "uv_accent": { "type": "boolean" },
+    "night_bias": { "type": "number" }
+  }
+}
