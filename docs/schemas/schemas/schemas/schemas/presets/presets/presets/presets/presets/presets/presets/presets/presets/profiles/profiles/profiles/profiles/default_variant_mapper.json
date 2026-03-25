@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "if_family": "holden",
+      "if_generation": "legacy",
+      "theme": "Classic Holden",
+      "default_mode": "P-Mode"
+    },
+    {
+      "if_family": "holden",
+      "if_variant_contains": "hsv",
+      "theme": "Ocean",
+      "default_mode": "Daily PRV"
+    },
+    {
+      "if_cluster_capability": "rich_colour",
+      "theme": "Nebula",
+      "default_mode": "Daily PRV"
+    }
+  ]
+}
