@@ -1,0 +1,20 @@
+{
+  "name": "Heat-Soak Defense",
+  "mode": "Heat-Soak Defense",
+  "variables": {
+    "aggression": 45,
+    "longevity": 78,
+    "thermal_priority": 96,
+    "torque_smoothness": 82,
+    "fuel_margin_safety": 92,
+    "maintenance_commitment": 64,
+    "ride_compliance": 70,
+    "body_control": 60,
+    "grip_preservation": 80,
+    "pitch_control": 62,
+    "roll_control": 60,
+    "load_compensation": 68,
+    "height_bias": 0,
+    "traction_cooperation": 84
+  }
+}
