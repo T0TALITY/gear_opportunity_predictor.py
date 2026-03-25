@@ -1,0 +1,8 @@
+{
+  "theme": "Ocean",
+  "default_screen": "speedometer",
+  "sequence_engine": "bennonacci_ambient",
+  "brightness_limit": 0.45,
+  "uv_accent": false,
+  "night_bias": 0.42
+}
