@@ -1,0 +1,20 @@
+{
+  "name": "Aggressive Controlled",
+  "mode": "Aggressive Controlled",
+  "variables": {
+    "aggression": 78,
+    "longevity": 48,
+    "thermal_priority": 70,
+    "torque_smoothness": 68,
+    "fuel_margin_safety": 76,
+    "maintenance_commitment": 78,
+    "ride_compliance": 48,
+    "body_control": 82,
+    "grip_preservation": 68,
+    "pitch_control": 80,
+    "roll_control": 82,
+    "load_compensation": 68,
+    "height_bias": -1,
+    "traction_cooperation": 66
+  }
+}
